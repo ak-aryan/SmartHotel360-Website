@@ -146,7 +146,7 @@ The 1st step to enable AD B2C is **to remove the `FakeAuth` section in the `apps
 
 # Azure Function & App Service Demo Scripts
 
-There are two demos that show the power of .NET Core, Visual Studio and Azure. In order to run through the [demo scripts](Documents/DemoScripts) you will need to set up your own environment. 
+There are two demos that show the power of .NET Core, Visual Studio Code and Azure. In order to run through the [demo scripts](Documents/DemoScripts) you will need to set up your own environment. 
 
  * The first demo **[Azure Functions Local Debugging](Documents/DemoScripts/AzureFunctionsNETCoreDebugging.pdf)**  demonstrates the ability to easily develop and debug C# Azure Functions in Visual Studio 2017. This demo shows how the hotel only allows dogs by asking the customer to upload a picture of their pet.
 
